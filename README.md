@@ -4,7 +4,7 @@ My name is Vi, i'm a Python, C, C++ and flat assembler developer.
 In future, i'm planning to create the best OS in the history!
 Popov lore exists, no more boring wallpapers!
 
-[![Vi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivavy)](https://github.com/vivavy/github-readme-stats)
+[![Vi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vivavy&theme=transparent)](https://github.com/vivavy/github-readme-stats)
 
 ### Links
 
